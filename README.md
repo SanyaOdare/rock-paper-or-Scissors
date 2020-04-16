@@ -1,2 +1,2 @@
-# rock-paper-or-Scissors
-JAVASCRIPT CONDITIONALS AND FUNCTIONS
+# rock-paper-or-scissors
+Javascript Conditionals and Functions
